@@ -1,5 +1,5 @@
 # Prometheus-Alertmanager
-这不是个完整的监控项目，是本地测试要使用上线的一个项目！
+copy from https://github.com/guleng/Prometheus-Alertmanager, just for bakeup
 
 1.收报警渠道有三个（微信，钉钉，邮件）
 
